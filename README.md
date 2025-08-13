@@ -7,9 +7,9 @@ Repositório com exercícios e atividades resolvidas em **Linguagem C**, organiz
 - **condicionais/** → estruturas de decisão (`if`, `else`, `switch`).
 - **repeticoes/** → laços de repetição (`for`, `while`, `do...while`).
 - **vetores/** → exercícios com arrays.
-- **strings/** → exercícios com matrizes bidimensionais.
+- **strings/** → exercícios com strings.
 - **funcoes/** → modularização de código.
-- **structs/** → leitura e escrita de arquivos.
+- **structs/** → exercícios com dado composto(registro).
 
 ## 🚀 Como executar
 1. Instale o compilador GCC no seu computador.
